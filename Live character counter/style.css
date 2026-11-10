@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(117, 81, 81);
+}
+
+h1{
+  text-align: center;
+  margin-top: 30px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container{
+    position: absolute;
+    width: 400px;
+    top: 40%;
+    left: 38%;
+}
+
+textarea{
+    width: 100%;
+    resize: none;
+    background-color: rgb(70, 20, 20);
+    color: white;
+    border: none;
+    padding: 15px;
+    line-height: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 20px;;
+}
